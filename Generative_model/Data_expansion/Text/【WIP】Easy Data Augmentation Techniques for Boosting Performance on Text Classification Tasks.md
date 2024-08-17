@@ -19,6 +19,10 @@
 ### 6. 挙げられている参考文献の中で特に重要になりそうなもの
 
 
+#### 補助資料
+- [x] https://speakerdeck.com/tad/wen-xian-shao-jie-201911-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks
+- [x] https://qiita.com/mantis522/items/394fa0d9f83b8e46b4ad
+
 #### 引用時の表記
 
 
