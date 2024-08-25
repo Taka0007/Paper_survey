@@ -28,7 +28,12 @@
 - [x] 
 - [x] 
 
-#### 引用時の表記
-
+#### Bibtex
+@article{saqur2024nifty,
+  title={NIFTY Financial News Headlines Dataset},
+  author={Saqur, Raeid and Kato, Ken and Vinden, Nicholas and Rudzicz, Frank},
+  journal={arXiv preprint arXiv:2405.09747},
+  year={2024}
+}
 
 #### 発表場所・掲載場所
