@@ -1,5 +1,8 @@
 ### 【キーワード】
+企業クラスタリング、金融時系列
 
+### 【リンク】
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2L5GS1301/_pdf/-char/ja
 
 ### 0. 読むのに必要な事前知識
 - [x] 
