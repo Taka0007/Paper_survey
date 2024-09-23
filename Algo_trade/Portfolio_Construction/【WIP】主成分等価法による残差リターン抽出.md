@@ -1,5 +1,5 @@
 ### 【キーワード】
-
+金融時系列、主成分分析、残差リターン
 
 ### 【リンク】
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3D5GS205/_pdf/-char/ja
