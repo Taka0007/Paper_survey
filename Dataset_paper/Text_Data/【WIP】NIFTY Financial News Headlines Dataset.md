@@ -8,7 +8,7 @@
 ### 1. やったこと
 過去10年間に収集されたニュースのテキストデータを利用しやすい形で公開してくれている。<br>
 huggingface上で公開されている。
-（https://huggingface.co/datasets/raeidsaqur/NIFTY）
+（ https://huggingface.co/datasets/raeidsaqur/NIFTY ）
 
 ### 2. 既存のものと比べて何がすごい？
 
