@@ -27,6 +27,10 @@ https://arxiv.org/pdf/2107.09055
 ### 6. 挙げられている参考文献の中で特に重要になりそうなもの
 
 
+### 7.論文の詳細内容
+
+
+
 #### 補助資料
 - [x] https://qiita.com/keni-chi/items/6a2854d1aeddc4da7b61
 - [x] 
