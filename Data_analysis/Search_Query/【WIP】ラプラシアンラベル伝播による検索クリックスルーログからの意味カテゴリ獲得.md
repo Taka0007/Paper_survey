@@ -35,6 +35,15 @@ https://www.jstage.jst.go.jp/article/tjsai/25/1/25_1_196/_article/-char/ja/
 - [x] 
 
 #### Bibtex
-
+@article{2010C-963,
+  title={ラプラシアンラベル伝播による検索クリックスルーログからの意味カテゴリ獲得},
+  author={小町 守 and 牧本 慎平 and 内海 慶 and 颯々野 学},
+  journal={人工知能学会論文誌},
+  volume={25},
+  number={1},
+  pages={196-205},
+  year={2010},
+  doi={10.1527/tjsai.25.196}
+}
 
 #### 発表場所・掲載場所
