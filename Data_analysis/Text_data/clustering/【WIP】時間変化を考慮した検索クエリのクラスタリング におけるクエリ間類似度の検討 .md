@@ -1,5 +1,5 @@
 ### 【キーワード】
-クラスタリング
+クラスタリング、検索クエリ
 
 ### 【リンク】
 https://www.tkl.iis.u-tokyo.ac.jp/new/uploads/publication_file/file/372/ipsj20100310kida.pdf
