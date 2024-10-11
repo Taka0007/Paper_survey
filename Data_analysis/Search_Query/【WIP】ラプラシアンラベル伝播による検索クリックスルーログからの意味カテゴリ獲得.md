@@ -2,7 +2,7 @@
 検索クエリ、意味カテゴリ取得
 
 ### 【リンク】
-https://www.jstage.jst.go.jp/article/tjsai/25/1/25_1_196/_pdf
+https://www.jstage.jst.go.jp/article/tjsai/25/1/25_1_196/_article/-char/ja/
 
 ### 0. 読むのに必要な事前知識
 - [x] 
