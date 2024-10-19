@@ -2,7 +2,7 @@
 形式化、Lean
 
 ### 【リンク】
-
+https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D2-3.pdf
 
 ### 0. 読むのに必要な事前知識
 - [x] 
