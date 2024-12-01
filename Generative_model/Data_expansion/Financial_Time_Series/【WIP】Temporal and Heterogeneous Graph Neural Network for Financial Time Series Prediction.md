@@ -36,6 +36,12 @@ https://arxiv.org/abs/2305.08740
 - [x] 
 
 #### Bibtex
-
+@inproceedings{xiang2022temporal,
+  title={Temporal and heterogeneous graph neural network for financial time series prediction},
+  author={Xiang, Sheng and Cheng, Dawei and Shang, Chencheng and Zhang, Ying and Liang, Yuqi},
+  booktitle={Proceedings of the 31st ACM international conference on information \& knowledge management},
+  pages={3584--3593},
+  year={2022}
+}
 
 #### 発表場所・掲載場所
