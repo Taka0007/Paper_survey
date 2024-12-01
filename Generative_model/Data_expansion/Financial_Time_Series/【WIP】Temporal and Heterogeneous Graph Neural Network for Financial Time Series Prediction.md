@@ -1,11 +1,12 @@
 ### 【キーワード】
-
+Graph Neural Network, Financial Time Series
 
 ### 【リンク】
 https://arxiv.org/abs/2305.08740
 
 ### 0. 読むのに必要な事前知識
-- [x] 
+- [x] GNNの基礎知識
+- [x] 金融時系列関連の基礎知識 
 
 
 
