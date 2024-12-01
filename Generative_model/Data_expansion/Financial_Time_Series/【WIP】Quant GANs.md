@@ -44,6 +44,7 @@ https://arxiv.org/abs/1907.06673
 
 
 #### bibtex
+```
 @article{Wiese_2020,
    title={Quant GANs: deep generation of financial time series},
    volume={20},
@@ -56,3 +57,4 @@ https://arxiv.org/abs/1907.06673
    author={Wiese, Magnus and Knobloch, Robert and Korn, Ralf and Kretschmer, Peter},
    year={2020},
    month=apr, pages={1419–1440} }
+```
