@@ -39,11 +39,13 @@ https://arxiv.org/abs/2107.09055
 - [x] https://ai-scholar.tech/articles/gan/stockprice_bertandgan
 
 #### Bibtex
+```
 @article{sonkiya2021stock,
   title={Stock price prediction using BERT and GAN},
   author={Sonkiya, Priyank and Bajpai, Vikas and Bansal, Anukriti},
   journal={arXiv preprint arXiv:2107.09055},
   year={2021}
 }
+```
 
 #### 発表場所・掲載場所
