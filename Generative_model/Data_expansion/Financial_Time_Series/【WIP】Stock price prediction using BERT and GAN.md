@@ -2,7 +2,7 @@
 BERT、GAN、金融時系列生成
 
 ### 【リンク】
-https://arxiv.org/pdf/2107.09055
+https://arxiv.org/abs/2107.09055
 
 ### 0. 読むのに必要な事前知識
 - [x] 
