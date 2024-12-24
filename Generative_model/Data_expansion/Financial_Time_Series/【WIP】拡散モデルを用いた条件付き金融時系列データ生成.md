@@ -1,5 +1,5 @@
 ### 【キーワード】
-
+金融時系列生成、拡散モデル、条件付き時系列生成
 
 ### 【リンク】
 https://www.jstage.jst.go.jp/article/jsaisigtwo/2024/FIN-033/2024_76/_pdf/-char/ja
@@ -19,7 +19,9 @@ https://www.jstage.jst.go.jp/article/jsaisigtwo/2024/FIN-033/2024_76/_pdf/-char/
 
 
 ### 3. 検証方法
-
+- stylizedfacts を満たすかどうか
+- 生成された価格系列のトレンドと実現ボラティリティが入力した条件と整合的であるかどうか
+- アップサンプリングが指定された条件での生成精度を向上させるかどうか
 
 ### 4. 次読むべきもの
 
