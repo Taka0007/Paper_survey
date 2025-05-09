@@ -1,5 +1,5 @@
 ### 【キーワード】
-金融時系列、主成分分析、残差リターン
+#金融時系列 #主成分分析 #残差リターン #論文
 
 ### 【リンク】
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3D5GS205/_pdf/-char/ja
@@ -32,6 +32,7 @@ https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3D5GS205/_pdf/-ch
 - [x] 
 
 #### Bibtex
+```
 @article{今城 健太郎2024,
   title={主成分等価法による残差リターン抽出},
   author={今城 健太郎 and 中川 慧 and 的矢 知樹 and 平野 正徳 and 青木 雅奈 and 今長谷 拓},
@@ -42,5 +43,6 @@ https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3D5GS205/_pdf/-ch
   year={2024},
   doi={10.11517/pjsai.JSAI2024.0_3D5GS205}
 }
+```
 
 #### 発表場所・掲載場所
